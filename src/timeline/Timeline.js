@@ -63,7 +63,7 @@ export default function Timeline() {
       <ul>
         <li>
           <div className="content">
-            <h3 className="animate slide_from_left">TripTips <a href="https://github.com/emaspero/GA-Project04-Frontend-Trips-Tips" target="_blank" rel="noopener noreferrer" id="project-link">(+)</a></h3>
+            <h3 className="animate slide_from_left">TripTips <a href="https://github.com/emaspero/GA-Project04-Frontend-Trips-Tips" target="_blank" rel="noopener noreferrer"><img src="/imgs/plus.png" alt="plus" /></a></h3>
             <p className="project-content-s-l animate slide_from_left">
               Full-stack MERN (MongoDB, Express, React, Node) single-page
               application which showcases a well-styled interactive front-end,
@@ -82,7 +82,7 @@ export default function Timeline() {
         </li>
         <li>
           <div className="content">
-            <h3 className="animate slide_from_right">The Phonograph</h3>
+            <h3 className="animate slide_from_right">The Phonograph  <a href="https://github.com/emaspero/GA-Project03-ThePhonograph" target="_blank" rel="noopener noreferrer"><img src="/imgs/plus.png" alt="plus" /></a></h3>
             <p className="project-content-s-l animate slide_from_right">
               Full stack application which includes at least 2 related models,
               one being the User, implementing the major CRUD functions.It was
@@ -99,7 +99,7 @@ export default function Timeline() {
         </li>
         <li>
           <div className="content">
-            <h3 className="animate slide_from_left">WineTime</h3>
+            <h3 className="animate slide_from_left">WineTime <a href="https://github.com/emaspero/GA-Project02-WineTime" target="_blank" rel="noopener noreferrer"><img src="/imgs/plus.png" alt="plus" /></a></h3>
             <p className="project-content-s-l animate slide_from_left">
               Full stack application that allows a User to create a profile,
               login, change password and add different wines records and review
@@ -117,7 +117,7 @@ export default function Timeline() {
         </li>
         <li>
           <div className="content">
-            <h3 className="animate slide_from_right">Frogger</h3>
+            <h3 className="animate slide_from_right">Frogger <a href="https://github.com/emaspero/GA-Project01-Frogger" target="_blank" rel="noopener noreferrer"><img src="/imgs/plus.png" alt="plus" /></a></h3>
             <p className="project-content-s-l animate slide_from_right">
               This project was my take on the popular Frogger arcade action game
               using HTML, CSS/Flexbox and Vanilla JavaScript. It features a

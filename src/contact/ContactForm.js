@@ -25,11 +25,11 @@ const ContactForm = () => {
     <div className="contact-container">
       <div className="contact-left">
         <div>
-        <img className="contact-icon" src="https://dummyimage.com/50x50" alt="placeholder" />
+        <img className="contact-icon" src="/imgs/placeholder2.png" alt="placeholder" />
         <p>Reading, United Kingdom</p> <br/>
         </div>
         <div className="email-left">
-        <img className="contact-icon" src="https://dummyimage.com/50x50" alt="placeholder" />
+        <img className="contact-icon" src="/imgs/email2.png" alt="placeholder" />
         <p>masperoelisabetta@gmail.com</p>
         </div>
       </div>

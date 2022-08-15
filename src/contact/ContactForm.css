@@ -47,6 +47,8 @@ button {
 }
 
 .contact-icon {
+    height: 38px;
+    width: 38px;
     border-radius: 50%;
     margin-right: 10px;
     margin-bottom: 10px;
