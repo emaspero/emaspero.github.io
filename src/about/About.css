@@ -30,3 +30,10 @@
         align-items: center;
     }
   }
+
+  .skills-h3 {
+    padding:0;
+    margin:0;
+    color: #E47A25;
+    font-weight:400;
+  }

@@ -78,6 +78,13 @@ h1{
   color: #E47A25;
   font-weight:400;
 }
+.project-info {
+  padding: 0;
+  margin: 0;
+  margin-top: 10px;
+  /* color: #9db7c4; */
+  font-weight:300;
+}
 .timeline ul li p{
   margin:10px 0 0;
   padding:0;

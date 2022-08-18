@@ -25,7 +25,7 @@ export default function About() {
       <h3>My Skills</h3>
       <hr />
       <div>
-        <a
+        {/* <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
           rel="noreferrer"
@@ -152,7 +152,20 @@ export default function About() {
             height="36"
             alt="Figma"
           />
-        </a>
+        </a> */}
+
+        <h3 className="skills-h3">Front-end:</h3>
+        <p>HTML, CSS & CSS Libraries (Bootstrap, Materialize, Tailwind), JavaScript, jQuery, React</p> <br/>
+        <h3 className="skills-h3">Back-end:</h3>
+        <p>Express, Node, Mongoose, Python, Django</p> <br/>
+        <h3 className="skills-h3">Other:</h3>
+        <p>MongoDB, PostgreSQL, pgAdmin4, npm, pip, Git, GitHub, Heroku, authentication/authorization</p> <br/>
+        <h3 className="skills-h3">Methodologies:</h3>
+        <p>Object Oriented Programming, RESTful APIs, AJAX, MVC/MVT, pair-programming</p> <br/>
+        <h3 className="skills-h3">Languages:</h3>
+        <p>Italian (native), English and Spanish (Fluent), French (intermediate), Chinese (beginner)</p> <br/>
+        <h3 className="skills-h3">Soft:</h3>
+        <p>Time management, Communication, Teamwork, Adaptability, Listening, Positive attitude, Problem solving, Eagerness to learn, Customer service, Intercultural competence</p>
       </div>
     </div>
   );
