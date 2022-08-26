@@ -32,6 +32,18 @@ const ContactForm = () => {
         <img className="contact-icon" src="/imgs/email2.png" alt="placeholder" />
         <p>masperoelisabetta@gmail.com</p>
         </div>
+        <div>
+        <img className="contact-icon" src="/imgs/linkedin-blue.png" alt="placeholder" />
+        <a href="https://www.linkedin.com/in/elisabetta-maspero/" target="_blank" rel="noopener noreferrer">
+          LinkedIn
+        </a>
+        </div>
+        <div>
+        <img className="contact-icon" src="/imgs/github-blue.png" alt="placeholder" />
+        <a href="https://github.com/emaspero" target="_blank" rel="noopener noreferrer">
+          GitHub
+        </a>
+        </div>
       </div>
       <div className="contact-right">
         <form

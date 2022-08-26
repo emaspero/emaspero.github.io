@@ -22,138 +22,9 @@ export default function About() {
         </p>
       </div>
 
-      <h3>My Skills</h3>
+      <h3>Skills</h3>
       <hr />
       <div>
-        {/* <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-            width="36"
-            height="36"
-            alt="JavaScript"
-          />
-        </a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-            width="36"
-            height="36"
-            alt="Python"
-          />
-        </a>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-            width="36"
-            height="36"
-            alt="HTML5"
-          />
-        </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-            width="36"
-            height="36"
-            alt="React"
-          />
-        </a>
-        <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
-            width="36"
-            height="36"
-            alt="JQuery"
-          />
-        </a>
-        <a
-          href="https://www.w3.org/TR/CSS/#css"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-            width="36"
-            height="36"
-            alt="CSS3"
-          />
-        </a>
-        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-            width="36"
-            height="36"
-            alt="Bootstrap"
-          />
-        </a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
-            width="36"
-            height="36"
-            alt="NodeJS"
-          />
-        </a>
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-            width="36"
-            height="36"
-            alt="Express"
-          />
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
-            width="36"
-            height="36"
-            alt="MongoDB"
-          />
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
-            width="36"
-            height="36"
-            alt="PostgreSQL"
-          />
-        </a>
-        <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg"
-            width="36"
-            height="36"
-            alt="Heroku"
-          />
-        </a>
-        <a
-          href="https://www.djangoproject.com/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
-            width="36"
-            height="36"
-            alt="Django"
-          />
-        </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-            width="36"
-            height="36"
-            alt="Figma"
-          />
-        </a> */}
-
         <h3 className="skills-h3">Front-end:</h3>
         <p>HTML, CSS & CSS Libraries (Bootstrap, Materialize, Tailwind), JavaScript, jQuery, React</p> <br/>
         <h3 className="skills-h3">Back-end:</h3>
@@ -166,6 +37,19 @@ export default function About() {
         <p>Italian (native), English and Spanish (Fluent), French (intermediate), Chinese (beginner)</p> <br/>
         <h3 className="skills-h3">Soft:</h3>
         <p>Time management, Communication, Teamwork, Adaptability, Listening, Positive attitude, Problem solving, Eagerness to learn, Customer service, Intercultural competence</p>
+      </div>
+
+      <h3>Interests</h3>
+      <hr />
+      <div>
+      <h3 className="skills-h3">Languages:</h3>
+      <p>A passion of mine since I was young. I enjoy developing skills that I can put into practice and speaking different languages not only allows me to achieve that, but it also offers me the tools to approach and learn from different people and cultures. I would like to improve my Chinese and learn Portuguese next.</p>
+      <br />
+      <h3 className="skills-h3">Reading:</h3>
+      <p>I am an avid reader. I enjoy the classics; especially Russian literature (I am currently reading The Idiot by Fyodor Dostoevsky, a masterpiece).</p>
+      <br />
+      <h3 className="skills-h3">Mindfulness:</h3>
+      <p>This practice has an exceptional impact on one’s quality of life. I try to find time every day to meditate and you can easily find me at the gym attending Yoga and Pilates classes.</p>
       </div>
     </div>
   );
