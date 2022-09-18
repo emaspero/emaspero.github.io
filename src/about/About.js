@@ -6,7 +6,7 @@ export default function About() {
     <div>
       <div className="about-container">
       <img
-          src="/imgs/about-selfie.JPG"
+          src="/imgs/about-selfie.jpg"
           alt="placeholder"
           className="about-pic"
         />
