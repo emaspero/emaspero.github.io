@@ -23,7 +23,7 @@ hr {
   margin-left: 0px;
   margin-top: -10px;
   margin-bottom: 20px;
-  color: #e99149;
+  color: #ffcd80;
 }
 
 #about,
@@ -75,7 +75,7 @@ hr {
     height: 38px;
     display: block;
   
-    background: linear-gradient(to right, #e99149 50%, #9db7c4 50%);
+    background: linear-gradient(to right, #ffcd80 50%, #80cbc3 50%);
     background-size: 200% 100%;
     background-position: right bottom;
     transition: all .5s ease-out;

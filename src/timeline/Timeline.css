@@ -56,7 +56,7 @@ h1{
   height:10px;
   top:24px;
   right:-6px;
-  background:#f06311;
+  background:#e65100;
   border-radius:50%;
   box-shadow:0 0 0 3px rgba(243, 129, 63, 0.2);
 }
@@ -68,14 +68,14 @@ h1{
   height:10px;
   top:24px;
   left:-4px;
-  background:#f06311;
+  background:#e65100;
   border-radius:50%;
   box-shadow:0 0 0 3px rgba(243, 129, 63, 0.2);
 }
 .timeline ul li h3{
   padding:0;
   margin:0;
-  color: #E47A25;
+  color: #80cbc3;
   font-weight:400;
 }
 .project-info {
@@ -101,7 +101,7 @@ h1{
   right:-125px;
   margin:0;
   padding:8px 16px;
-  background:#9db7c4;
+  background:#01796a;
   color:#fff;
   border-radius:18px;
   box-shadow:0 0 0 3px rgba(191, 212, 217, 0.1);
@@ -113,7 +113,7 @@ h1{
   left:-125px;
   margin:0;
   padding:8px 16px;
-  background:#9db7c4;
+  background:#01796a;
   color:#fff;
   border-radius:18px;
   box-shadow:0 0 0 3px rgba(191, 212, 217, 0.1);
